@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Screen-Rotate
+
+Exec=/skript/screen-rotate2.sh
+Icon=terminal
+Terminal=true
+Type=Application
+Categories=GTK;

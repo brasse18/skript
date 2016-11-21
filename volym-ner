@@ -1,0 +1,4 @@
+#/bin/bash
+amixer sset -c 0 Headphone,0 1-
+amixer sset -c 2 Headphone,0 1-
+amixer sset Master,0 1-
