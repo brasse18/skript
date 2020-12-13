@@ -2,8 +2,9 @@ filebot -script fn:amc ^
 --output "H:\temp-TV" ^
 --action move ^
 --conflict auto  ^
-clean=y  ^
-deleteAfterExtract=y ^
+--def clean=y  ^
+--def --conflict auto ^
+--def deleteAfterExtract=y ^
 -non-strict "H:\new-temp-done" ^
 --log-file amc.log ^
 --def ^
