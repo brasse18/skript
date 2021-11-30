@@ -1,0 +1,1 @@
+start "" "..\resorser\nircmd-x64\nircmd.exe" setdefaultsounddevice "bed Speakers" 1

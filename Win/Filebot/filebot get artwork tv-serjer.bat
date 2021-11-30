@@ -1,0 +1,1 @@
+filebot -script fn:artwork.tvdb -non-strict "D:\temp-TV"
