@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\MultiRes\MultiRes.exe" %1

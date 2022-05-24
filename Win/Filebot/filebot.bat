@@ -1,5 +1,5 @@
 filebot -script fn:amc ^
---output "H:\temp-TV" ^
+--output "D:\temp-TV" ^
 --action move ^
 --conflict auto  ^
 --def clean=y  ^

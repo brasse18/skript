@@ -1,0 +1,1 @@
+D:\git\Skript\skript\Win\mining\packetcrypt_x8664_windows.exe ann -t 10 -p pkt1qyg87jdw6pmgpr5dq0t67qwaf3xv32nh4jypqxs http://stratum.zetahash.com/ http://pool.pktpool.io/ http://pool.pkt.world/

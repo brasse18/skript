@@ -1,0 +1,1 @@
+"c:\cmd\nano\nano.exe" %1

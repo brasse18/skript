@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Bitvise SSH Client\stermc.exe" %1
